@@ -1,1 +1,0 @@
-# KRA_JEE_S_09_JavaScript
